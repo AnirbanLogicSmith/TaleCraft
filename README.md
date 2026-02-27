@@ -40,7 +40,7 @@ source .venv/bin/activate   # Windows: .\.venv\Scripts\activate
 pip install -r requirements.txt
 
 # 4. Set your GEMINI API key
-export GEMINI_API_KEY="AIza..."   # Windows: set GEMINI_API_KEY=AIza...
+export GEMINI_API_KEY="AIza..."   # Windows: set GEMINI_API_KEY=AIza... #PowerShell: $env:GEMINI_API_KEY="AIza..."
 
 # 5. Run the app
 python main.py
@@ -104,3 +104,4 @@ This project was built for the [Microsoft Agents League Hackathon](https://githu
 
 
 MIT — see [LICENSE](LICENSE)
+
