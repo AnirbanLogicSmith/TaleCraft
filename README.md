@@ -29,7 +29,7 @@ TaleCraft is a web application that lets you collaboratively write branching nar
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/TaleCraft.git
+git clone https://github.com/AnirbanLogicSmith/TaleCraft.git
 cd TaleCraft
 
 # 2. Create a virtual environment
@@ -101,5 +101,6 @@ This project was built for the [Microsoft Agents League Hackathon](https://githu
 ---
 
 ## 📄 License
+
 
 MIT — see [LICENSE](LICENSE)
